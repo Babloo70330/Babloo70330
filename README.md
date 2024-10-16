@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Babloo;+Sanskriti+University;Bachelors+of+Computer+Science+And+Engineering)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Babloo;+Sanskriti+University;Bachelors+of+Technology+in+Computer+Science+And+Engineering)
 
-<h3 align="center">Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Babloo70330&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ### 🎓 Education
-Currently pursuing a **B.Tech in Computer Science Engineering** at **Sanskriti University**. Expected graduation in **May 2025**.
+Currently pursuing a **B.Tech in Computer Science and Engineering** at **Sanskriti University**. Expected graduation in **May 2025**.
 
 ### 🌱 Currently Learning
 - Mobile Application Development
