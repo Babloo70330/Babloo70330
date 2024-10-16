@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Babloo+kumar;+Sanskriti+University;Bachelors+of+Technology+in+Computer+Science+And+Engineering)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Babloo+kumar;+Sanskriti+University;Bachelors+of+Technology+in;+Computer+Science+And+Engineering)
 
 <h3 align="center">Full Stack Web Developer | Problem Solver</h3>
 
