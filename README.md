@@ -55,7 +55,7 @@ With a strong foundation in web development, I specialize in creating dynamic, r
     <a href="https://www.linkedin.com/in/babloo-kumar-032120256" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/_sameeksha.sharma_" target="blank">
+    <a href="https://instagram.com/babloo.patel001" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
