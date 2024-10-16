@@ -25,7 +25,7 @@ With a strong foundation in web development, I specialize in creating dynamic, r
 - 💬 Ask me about full-stack development, best practices, and modern web technologies!
 - 📫 How to reach me: [Babloo.kumar70330@gmail.com](mailto:Babloo.kumar70330@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing cricket on weekends and I hit the gym regularly to stay fit!
+- ⚡ Fun fact: I love playing cricket on weekends and I go to the gym regularly to stay fit and challenge myself with new workout routines.
 
 ### 🛠️ Skills
 - **Programming Languages**: C, C++, Java  
