@@ -1,21 +1,3 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-### 📚 Coursework
-- Algorithms and Data Structures
-- Theory of Computation
-- Object Oriented Programming
-- Database Management Systems
-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Babloo;+Sanskriti+University;Bachelors+of+Computer+Science+And+Engineering)
 
 <h3 align="center">Full Stack Developer | Problem Solver</h3>
@@ -43,7 +25,7 @@ With a strong foundation in web development, I specialize in creating dynamic, r
 - 💬 Ask me about full-stack development, best practices, and modern web technologies!
 - 📫 How to reach me: [Babloo.kumar70330@gmail.com](mailto:Babloo.kumar70330@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess!
+- ⚡ Fun fact: I love playing cricket on weekends and I hit the gym regularly to stay fit!
 
 ### 🛠️ Skills
 - **Programming Languages**: C, C++, Java  
